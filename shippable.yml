@@ -1,3 +1,5 @@
+language: none
+
 runtime:
     # use the free open source pool of nodes
     # only for ARM platform
